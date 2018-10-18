@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "รับพารามิเตอร์สี่เหลี่ยมคางหมู กว้าง ยาว สูง", "รับพารามิเตอร์สี่เหลี่ยมคางหมู กว้าง ยาว สูง\รับพารามิเตอร์สี่เหลี่ยมคางหมู กว้าง ยาว สูง.csproj", "{B78F43F5-E266-4A41-8A66-D401A115C152}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B78F43F5-E266-4A41-8A66-D401A115C152}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B78F43F5-E266-4A41-8A66-D401A115C152}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B78F43F5-E266-4A41-8A66-D401A115C152}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B78F43F5-E266-4A41-8A66-D401A115C152}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C640C46F-4D57-4037-A994-B3EA94887DD0}
+	EndGlobalSection
+EndGlobal
